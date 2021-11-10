@@ -1,5 +1,11 @@
-# Recordings :List
+# Recordings List
 
-### 08.11.2021: https://us02web.zoom.us/rec/share/VPjB7rdxfZfEbptYBZ_lrn_yV6NKmS6AN2MVHnsdjolr4QqLQ1E5zICl_3TW6ONn.dD5hpnyFzmRpjdd6?startTime=1636359628000
+### 09.11.2021: https://us02web.zoom.us/rec/share/KASoJutG8mOKItnz59sgkq9GAxcrXy65gnD1PgktmbXUuOtQrnGtbjYakdCChzXx.kFhsYG9mfMTsGKav
 
-### 03.11.2021: https://us02web.zoom.us/rec/share/YJ7LYLRQOz7NnmKEgmm1tZwwvAc1v1TfESYxLeMEP2V8w37Jq7bCLoKPoX8nwQ2y.la1QspbhxDBKdedO?startTime=1635927109000
+### 08.11.2021: https://us02web.zoom.us/rec/share/fvdGHx7tSW9sBBvkY8cmMwhNrx1f4vgTEamuuWS5xBZu4MgOV89ybJzENiRfN-Qk._tXJNPIX67PVKnPl
+
+### 04.11.2021: https://us02web.zoom.us/rec/share/2aTh9379IpHHGgQw8VVSOuPofZqAkCPzwjOaE2bP8UKc-POuxBX58uZi7AvKtIa3.w91iDTJq4IegIfyO
+
+### 03.11.2021: https://us02web.zoom.us/rec/share/DX6du2Dc2Udt0JvLCKxexgZxw61R6wfKqkRAL_2gBa6AR2eFWSq9ORPAN5ILEjcq.OMGGh0KhnEtznjOm
+
+### 02.11.2021: https://us02web.zoom.us/rec/share/ECYru_QJKT9FNv6EBuq82g81pUaYSMQ1MQWtcoAHqjCJdWdhp6aXjHlEM2HaxKX7.JbXFqZizr2uEiQmP
